@@ -9,8 +9,8 @@ xStats is not made to superceed any statistical plugins, it's just made for fun 
 This is a 'plug-n-play' type of plugin. Throw the plugin into the server, add the neccessary database.cfg lines to connect to the database and You're done.
 
 # Discussions
-[Achievement Ideas](https://github.com/Teamkiller324/Xstats/discussions/2)
-[Issues](https://github.com/Teamkiller324/Xstats/discussions/3)
+### [Achievement Ideas](https://github.com/Teamkiller324/Xstats/discussions/2)
+### [Issues](https://github.com/Teamkiller324/Xstats/discussions/3)
 
 ### [Cvars](https://github.com/Teamkiller324/Xstats/blob/main/Cvars.md)
 
