@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## xStats
+``Currently being re-built from scratch with a huge optimization. (All-in-one and Updater support.) At the moment in early development stages.``
 
-You can use the [editor on GitHub](https://github.com/Teamkiller324/Xstats/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+xStats is a multi-statistics tracking plugin, featuring kill tracking, achievement tracking and more to come.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+xStats is not made to superceed any statistical plugins, it's just made for fun and improving skills.
 
-### Markdown
+### Influenced by gameMe & HLStatsX:CE (Community driven HLStatsX version) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a 'plug-n-play' type of plugin. Throw the plugin into the server, add the neccessary database.cfg lines to connect to the database and You're done.
 
-```markdown
-Syntax highlighted code block
+### [Cvars](https://github.com/Teamkiller324/Xstats/blob/main/Cvars.md)
 
-# Header 1
-## Header 2
-### Header 3
+## Requirements
+### [Tk Libraries](https://github.com/Teamkiller324/Tklib) (To compile)
 
-- Bulleted
-- List
+### [Multi-Colours](https://github.com/Bara/Multi-Colors) (To compile)
 
-1. Numbered
-2. List
+### [Updater](https://github.com/Teamkiller324/Updater) (To compile with updater support)
 
-**Bold** and _Italic_ and `Code` text
+### [SteamWorks](http://users.alliedmods.net/~kyles/builds/SteamWorks/) (Due to Updater)
 
-[Link](url) and ![Image](src)
+## Games supported. (So far, more will be added)
+```
+Counter-Strike: Global Offensive.
+Counter-Strike: Source
+Team Fortress 2 (Work in progress.)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Info
+At the moment there is no web panel yet but if you're interested in helping out on that part, hit me up https://steamcommunity.com/id/Teamkiller324
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Teamkiller324/Xstats/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### This will be updated to a nicer design later and better description later on.
