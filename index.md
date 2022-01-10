@@ -30,5 +30,3 @@ Team Fortress 2 (Near completion.)
 
 ## Info
 At the moment there is no web panel yet but if you're interested in helping out on that part, hit me up on [Steam](https://steamcommunity.com/id/Teamkiller324)
-
-### This will be updated to a nicer design later and better description later on.
