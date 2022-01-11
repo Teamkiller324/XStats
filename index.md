@@ -8,6 +8,12 @@ xStats is not made to superceed any statistical plugins, it's just made for fun 
 
 This is a 'plug-n-play' type of plugin. Throw the plugin into the server, add the neccessary database.cfg lines to connect to the database and You're done.
 
+# Early Development Screenshots
+
+![Screenshot_1](https://user-images.githubusercontent.com/49116354/148999939-862ff95c-1834-4c7a-8085-1216387a9285.png)
+![Screenshot_2](https://user-images.githubusercontent.com/49116354/148999954-a2b328f0-3306-4386-9eb0-fb62635b30d0.png)
+![Screenshot_3](https://user-images.githubusercontent.com/49116354/148999962-7f30e185-39c9-4aac-8cfc-a947909013fb.png)
+
 # Discussions
 ### [Achievement Ideas](https://github.com/Teamkiller324/Xstats/discussions/2)
 ### [Issues](https://github.com/Teamkiller324/Xstats/discussions/3)
