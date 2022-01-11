@@ -1,6 +1,8 @@
 ``Currently being re-built from scratch with a huge optimization. (All-in-one and Updater support.) At the moment in early development stages.``
 
-```Xstats is a Multi-Statistics tracking plugin, featuring kill tracking, achievement tracking, session tracking and even more to come. This also offers servers using unique Server ID's to read database tables, so you can have several tf2 servers for example using different server id's but still having same database tables.```
+```
+Xstats is a Multi-Statistics tracking plugin, featuring kill tracking, achievement tracking, session tracking and even more to come. This also offers servers using unique Server ID's to read database tables, so you can have several tf2 servers for example using different server id's but still having same database tables.
+```
 
 ### Xstats is not made to supersede any statistical plugins, it's just made for fun and improving skills.
 
