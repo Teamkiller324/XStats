@@ -1,5 +1,10 @@
 ``Currently being re-built from scratch with a huge optimization. (All-in-one and Updater support.) At the moment in early development stages.``
 
+# Regaring Issues
+You may discuss issues (crashes, errors, etc) within the [Discussions](https://github.com/Teamkiller324/Xstats/discussions)
+
+### You may NOT modify the plugin and distribute on to another place/source
+
 Xstats is a Multi-Statistics tracking plugin.
 
 ### Featuring kill tracking, achievement tracking (module), session tracking, and even more to come. Aswell offers servers using unique Server ID's to read database tables, so you can have several tf2 servers for example using different server id's but still having same database tables.
@@ -9,8 +14,6 @@ Xstats is a Multi-Statistics tracking plugin.
 ### Influenced by gameMe & HLStatsX:CE (Community driven HLStatsX version) 
 
 ## This is a 'plug-n-play' type of plugin. Throw the plugin into the server, add the neccessary database.cfg lines to connect to the database and You're done.
-
-### You may NOT modify the plugin and distribute on to another place/source
 
 # Early Development Screenshots
 
