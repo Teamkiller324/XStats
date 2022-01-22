@@ -44,7 +44,7 @@ Xstats is a Multi-Statistics tracking plugin aiming to support pretty much all S
 ```
 Counter-Strike: Global Offensive.
 Counter-Strike: Source.
-Team Fortress 2 (Near completion.)
+Team Fortress 2.
 ```
 
 ## Info
